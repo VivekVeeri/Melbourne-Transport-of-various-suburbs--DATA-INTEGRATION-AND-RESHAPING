@@ -1,6 +1,6 @@
 # Melbourne Transport of various suburbs - DATA-INTEGRATION-AND-RESHAPING
 Integrating the data from different files and reshaping it using various scaling/ transformation methods.  Technologies Used:- Python  Packages Used:- pandas, zipfile, shapefile, difflib, re, shapely.geometry, sklearn, sklearn.linear_model, BeautifulSoup
-Introduction
+# Introduction
 This assignment comprises of the integrate several datasets into one single schema and find and fix possible problems in the data.. We are provided with six input files, out of which two are in .zip, one .xlsx, one .txt, one .xml& one in _[.csv] (Comma Separated Values) file formats.
 
 Main task is to integrate the contents of the data in the following files.
@@ -11,7 +11,7 @@ Main task is to integrate the contents of the data in the following files.
 
 More details for each task will be given in the following sections.
 
-Methodology
+# Methodology
 For completing the given tasks, we had used the following steps.
 
 1. Data Integration Here we had integrated the given datasets from the given input files & scraping the data from websites to generate the output schema as follows:
